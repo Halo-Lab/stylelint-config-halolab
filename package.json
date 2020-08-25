@@ -1,0 +1,26 @@
+{
+  "name": "stylelint-config-halolab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "stylelint": "^13.6.1",
+    "stylelint-config-idiomatic-order": "^8.1.0",
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^13.6.1",
+    "stylelint-config-idiomatic-order": "^8.1.0",
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Halo-Lab/stylelint-config-halolab"
+  }
+}
